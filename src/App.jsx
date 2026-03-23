@@ -7,7 +7,7 @@ function Navbar() {
     <nav className="px-6 py-4 max-w-6xl mx-auto">
       <div className="flex justify-between items-center">
         {/* Logo */}
-        <h1 className="text-xl font-bold text-blue-500">Obire Dev</h1>
+        <h1 className="text-xl font-bold text-blue-500">ObiresOffice</h1>
 
         {/* Desktop Links */}
         <div className="hidden md:flex gap-6 text-sm">
